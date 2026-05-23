@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="website/assets/img/LOGO.png" alt="FRM System" width="120" />
+  <img src="https://face-recognition-management-system.github.io/assets/img/LOGO.png" alt="FRM System" width="120" />
 </p>
 
 <h1 align="center">FRM System</h1>
@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="./website/index.html"><b>瀏覽官方介紹網站 →</b></a>
+  <a href="https://face-recognition-management-system.github.io/"><b>瀏覽官方介紹網站 →</b></a>
 </p>
 
 <br />
 
 <p align="center">
-  <img src="website/assets/img/homepage.png" alt="FRM System 系統首頁畫面" width="820" />
+  <img src="https://face-recognition-management-system.github.io/assets/img/homepage.png" alt="FRM System 系統首頁畫面" width="820" />
 </p>
 
 ---
@@ -130,7 +130,7 @@ FRM System 提供三種授權形式，對應不同階段的需求：
 ---
 
 <p align="center">
-  <img src="website/assets/img/besta-logo.png" alt="BESTA 無敵科技" width="160" />
+  <img src="https://face-recognition-management-system.github.io/assets/img/besta-logo.png" alt="BESTA 無敵科技" width="160" />
 </p>
 
 <p align="center">
